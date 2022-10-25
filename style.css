@@ -4,6 +4,7 @@
 }
 body{
     box-sizing: border-box;
+    color: white;
     background-color: rgb(124, 18, 173);
     display: grid;
     text-align: center;
