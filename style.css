@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+body{
+    box-sizing: border-box;
+    background-color: rgb(124, 18, 173);
+    display: grid;
+    text-align: center;
+    place-items: center;
+}
+
+
+
+
+
